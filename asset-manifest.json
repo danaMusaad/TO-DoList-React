@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/danaMusaad.github.io/TO-DoList-React/static/css/main.9d5bd894.css",
-    "main.js": "/danaMusaad.github.io/TO-DoList-React/static/js/main.9902a823.js",
-    "static/js/453.37753ddd.chunk.js": "/danaMusaad.github.io/TO-DoList-React/static/js/453.37753ddd.chunk.js",
-    "index.html": "/danaMusaad.github.io/TO-DoList-React/index.html",
-    "main.9d5bd894.css.map": "/danaMusaad.github.io/TO-DoList-React/static/css/main.9d5bd894.css.map",
-    "main.9902a823.js.map": "/danaMusaad.github.io/TO-DoList-React/static/js/main.9902a823.js.map",
-    "453.37753ddd.chunk.js.map": "/danaMusaad.github.io/TO-DoList-React/static/js/453.37753ddd.chunk.js.map"
+    "main.css": "/TO-DoList-React/static/css/main.9d5bd894.css",
+    "main.js": "/TO-DoList-React/static/js/main.51b39eda.js",
+    "static/js/453.37753ddd.chunk.js": "/TO-DoList-React/static/js/453.37753ddd.chunk.js",
+    "index.html": "/TO-DoList-React/index.html",
+    "main.9d5bd894.css.map": "/TO-DoList-React/static/css/main.9d5bd894.css.map",
+    "main.51b39eda.js.map": "/TO-DoList-React/static/js/main.51b39eda.js.map",
+    "453.37753ddd.chunk.js.map": "/TO-DoList-React/static/js/453.37753ddd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d5bd894.css",
-    "static/js/main.9902a823.js"
+    "static/js/main.51b39eda.js"
   ]
 }
